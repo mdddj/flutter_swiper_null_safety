@@ -17,12 +17,130 @@
   <component name="ChangeListManager">
     <list default="true" id="c786231b-ff91-4235-b541-261fe51b92a1" name="Default" comment="bug# 修复&#10;https://github.com/lianyagang/flutter_swiper_null_safety/issues/1&#10;autoplay: true 没生效，手动滑动一下才能自动轮播。">
       <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/version" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/libraries/Flutter_for_Android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/runConfigurations/main_dart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/java/com/example/example/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example_android.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/images/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/images/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/images/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/images/bg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/images/bg0.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/images/bg1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/images/bg2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/MyLaunch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/InnerSwiper.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/listener_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/src/ExampleCustom.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/src/ExampleSwiperInScrollView.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/src/config.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/src/forms/form_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/res/1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/res/2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/res/3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/res/4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/res/5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/flutter_swiper_null_safety.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_swiper_null_safety_flutter3.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/custom_layout.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/custom_layout.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/flutter_page_indicator/flutter_page_indicator.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/flutter_page_indicator/flutter_page_indicator.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/swiper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/swiper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/swiper_control.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/swiper_control.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/swiper_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/swiper_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/swiper_pagination.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/swiper_pagination.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/swiper_plugin.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/swiper_plugin.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/transformer_page_view/parallax.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/transformer_page_view/parallax.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/src/transformer_page_view/transformer_page_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/transformer_page_view/transformer_page_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/control_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/flutter_swiper_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/layout_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/pagination_test.dart" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,25 +162,32 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1qPfAuTkHkGTj9aG03USGO8UPOu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="dart.analysis.tool.window.force.activate" value="false" />
-    <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/src/flutter_page_indicator" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="flutter.settings" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/hlx/github/flutter_swiper_null_safety",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "flutter.settings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/example/lib" />
@@ -86,15 +211,6 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="VM_PARAMETERS" />
     </configuration>
-    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-    </configuration>
-    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -115,13 +231,30 @@
     </configuration>
     <configuration name="flutter_swiper_test.dart" type="FlutterTestConfigType" factoryName="Flutter Test">
       <option name="testFile" value="$PROJECT_DIR$/test/flutter_swiper_test.dart" />
+      <option name="useRegexp" value="false" />
       <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,6 +266,7 @@
       <item itemvalue="Flutter Test.flutter_swiper_test.dart" />
     </list>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -143,6 +277,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526739255792</updated>
+      <workItem from="1653898705205" duration="311000" />
+      <workItem from="1653899026463" duration="116000" />
     </task>
     <task id="LOCAL-00001" summary="task# 升级2.0 空安全">
       <created>1617084082871</created>
@@ -205,6 +341,9 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -215,7 +354,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task# 升级2.0 空安全" />
@@ -224,94 +362,6 @@
     <MESSAGE value="task# 修改插件名称" />
     <MESSAGE value="bug# 修复&#10;https://github.com/lianyagang/flutter_swiper_null_safety/issues/1&#10;autoplay: true 没生效，手动滑动一下才能自动轮播。" />
     <option name="LAST_COMMIT_MESSAGE" value="bug# 修复&#10;https://github.com/lianyagang/flutter_swiper_null_safety/issues/1&#10;autoplay: true 没生效，手动滑动一下才能自动轮播。" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="493" height="430" key="DebuggerActiveHint" timestamp="1620701943812">
-      <screen x="0" y="0" width="1440" height="830" />
-    </state>
-    <state width="493" height="430" key="DebuggerActiveHint/0.0.1440.830/1440.-65.1920.1055@0.0.1440.830" timestamp="1620701943812" />
-    <state width="472" height="466" key="DebuggerActiveHint/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1618986206404" />
-    <state x="0" y="0" width="1440" height="900" key="DiffContextDialog" timestamp="1620721502615">
-      <screen x="0" y="25" width="1440" height="805" />
-    </state>
-    <state x="0" y="0" width="1440" height="900" key="DiffContextDialog/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1620721502615" />
-    <state x="1540" y="-12" width="1720" height="880" key="DiffContextDialog/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617093976051" />
-    <state width="1398" height="220" key="GridCell.Tab.0.bottom" timestamp="1620712028771">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1878" height="274" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617096451348" />
-    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1620712028771" />
-    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864714" />
-    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212071" />
-    <state width="1398" height="220" key="GridCell.Tab.0.center" timestamp="1620712028768">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1878" height="274" key="GridCell.Tab.0.center/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617096451345" />
-    <state width="1398" height="220" key="GridCell.Tab.0.center/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1620712028768" />
-    <state width="1878" height="259" key="GridCell.Tab.0.center/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864711" />
-    <state width="1878" height="259" key="GridCell.Tab.0.center/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212069" />
-    <state width="1398" height="220" key="GridCell.Tab.0.left" timestamp="1620712028766">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1878" height="274" key="GridCell.Tab.0.left/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617096451344" />
-    <state width="1398" height="220" key="GridCell.Tab.0.left/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1620712028766" />
-    <state width="1878" height="259" key="GridCell.Tab.0.left/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864709" />
-    <state width="1878" height="259" key="GridCell.Tab.0.left/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212068" />
-    <state width="1398" height="220" key="GridCell.Tab.0.right" timestamp="1620712028769">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1878" height="274" key="GridCell.Tab.0.right/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617096451347" />
-    <state width="1398" height="220" key="GridCell.Tab.0.right/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1620712028769" />
-    <state width="1878" height="259" key="GridCell.Tab.0.right/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617082864712" />
-    <state width="1878" height="259" key="GridCell.Tab.0.right/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082212070" />
-    <state x="1988" y="175" key="IDE.errors.dialog" timestamp="1617087523380">
-      <screen x="1440" y="-112" width="1920" height="1080" />
-    </state>
-    <state x="1988" y="175" key="IDE.errors.dialog/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617087523380" />
-    <state x="504" y="156" key="RollbackChangesDialog" timestamp="1620721513412">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="504" y="156" key="RollbackChangesDialog/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1620721513412" />
-    <state x="1901" y="188" key="SettingsEditor" timestamp="1616986111383">
-      <screen x="1440" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1901" y="188" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1616986111383" />
-    <state width="587" height="445" key="SwitcherDM" timestamp="1620702142987">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="587" height="411" key="SwitcherDM/0.0.1440.830/1440.-65.1920.1055@0.0.1440.830" timestamp="1620701818287" />
-    <state width="587" height="445" key="SwitcherDM/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1620702142987" />
-    <state x="420" y="220" key="Vcs.Push.Dialog.v2" timestamp="1618987985407">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="2000" y="152" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617093609902" />
-    <state x="420" y="220" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1618987985407" />
-    <state x="0" y="43" width="1440" height="791" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1618987454406">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="0" y="43" width="1440" height="791" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1618987454406" />
-    <state x="183" y="44" width="1720" height="789" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.790/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617083935208" />
-    <state x="1540" y="13" width="1720" height="770" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617082411445" />
-    <state x="489" y="108" width="585" height="685" key="find.popup" timestamp="1618985598611">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="2092" y="17" width="615" height="822" key="find.popup/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617100845109" />
-    <state x="489" y="108" width="585" height="685" key="find.popup/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1618985598611" />
-    <state x="545" y="361" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1618987895445">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="2167" y="321" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617087514549" />
-    <state x="545" y="361" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1618987895445" />
-    <state x="2194" y="276" key="git4idea.ui.GitTagDialog" timestamp="1617086513584">
-      <screen x="1440" y="-112" width="1920" height="1080" />
-    </state>
-    <state x="2194" y="276" key="git4idea.ui.GitTagDialog/0.0.1440.900/1440.-112.1920.1080@1440.-112.1920.1080" timestamp="1617086513584" />
-    <state x="469" y="200" width="503" height="577" key="search.everywhere.popup" timestamp="1618985918734">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="469" y="200" width="503" height="577" key="search.everywhere.popup/0.0.1440.900/1440.-90.1920.1080@0.0.1440.900" timestamp="1618985918734" />
-    <state x="2065" y="147" width="670" height="676" key="search.everywhere.popup/0.25.1440.790/1440.-87.1920.1055@1440.-87.1920.1055" timestamp="1617069988240" />
-    <state x="2065" y="259" width="670" height="676" key="search.everywhere.popup/0.25.1440.790/1440.25.1920.1055@1440.25.1920.1055" timestamp="1616989646534" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -322,18 +372,13 @@
           <option name="timeStamp" value="188" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
-          <url>file://$PROJECT_DIR$/lib/src/swiper.dart</url>
-          <line>310</line>
-          <option name="timeStamp" value="191" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
           <url>file://$PROJECT_DIR$/lib/src/transformer_page_view/transformer_page_view.dart</url>
-          <line>458</line>
+          <line>456</line>
           <option name="timeStamp" value="199" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
           <url>file://$PROJECT_DIR$/lib/src/transformer_page_view/transformer_page_view.dart</url>
-          <line>448</line>
+          <line>446</line>
           <option name="timeStamp" value="200" />
         </line-breakpoint>
       </breakpoints>
@@ -341,6 +386,10 @@
         <breakpoint type="dart-exception" />
       </default-breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="masterDetails">
     <states>
