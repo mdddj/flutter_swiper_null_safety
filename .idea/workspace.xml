@@ -16,7 +16,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c786231b-ff91-4235-b541-261fe51b92a1" name="Default" comment="添加flutter3 支持">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +157,8 @@
       <option name="presentableId" value="Default" />
       <updated>1526739255792</updated>
       <workItem from="1653898705205" duration="311000" />
-      <workItem from="1653899026463" duration="229000" />
+      <workItem from="1653899026463" duration="282000" />
+      <workItem from="1662710909103" duration="202000" />
     </task>
     <task id="LOCAL-00001" summary="task# 升级2.0 空安全">
       <created>1617084082871</created>
@@ -212,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653899178484</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="添加flutter3 支持">
+      <created>1653899300610</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653899300610</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
